@@ -31,6 +31,9 @@ Once you have done that, you should be able to go to `yourapp.com/admin`.
 Just add your variables to the environment and you should be good, although I haven't tested it myself personally – let's hope for the best ;)
 > You must update your PRIVATE or PUBLIC filesystem environment variables depending on where you want to use your S3 system.
 
+## Additional configuration and documentation
+https://docs.solidtime.io/self-hosting/intro
+
 ## ONE CLICK INSTALL*
 
 [![screenshot](https://railway.app/button.svg)](https://railway.app/template/WaxghR?referralCode=QkFCyI)
