@@ -31,4 +31,4 @@ Just add your variables to the environment and you should be good, although I ha
 
 ## ONE CLICK INSTALL
 
-\[!\[Deploy on Railway\](https://railway.app/button.svg)](https://railway.app/template/WaxghR?referralCode=QkFCyI)
+[!\[Deploy on Railway\](https://railway.app/button.svg)](https://railway.app/template/WaxghR?referralCode=QkFCyI)
