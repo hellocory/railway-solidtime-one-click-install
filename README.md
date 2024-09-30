@@ -1,4 +1,4 @@
-## solidtime
+## solidtime | ONE CLICK INSTALL
 
 Solidtime is an open-source time-tracking tool designed for freelancers and teams. It offers features like granular roles and permissions, cross-platform compatibility via a PWA, and system notifications. Users can import data from other time trackers like Toggl and Clockify. The platform also plans to include billing and invoicing features soon. Solidtime can be used as a hosted SaaS solution or set up on-premise, with support for enterprise installations.
 
