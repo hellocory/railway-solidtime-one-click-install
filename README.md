@@ -14,7 +14,7 @@ For more information, visit [Solidtime](https://www.solidtime.io/).
 
 This install is literally one click, but you'll need to configure things if you want it to work in production.  
   
-1\. Setup your custom SMTP - if you don't you won't be able to activate your accounts.
+1\. Setup your custom SMTP - if you don't, you won't be able to activate your accounts.
 
 2\. If you don't setup a custom SMTP, you must register an account, then edit that account on the Postgres instance (through the data tab).
 
@@ -24,6 +24,7 @@ This install is literally one click, but you'll need to configure things if you 
 ### Admin Access
 
 Edit the variable “SUPER\_ADMINS” and add your email(s). Separated by commas.
+Once you have done that, you should be able to go to `yourapp.com/admin`.
 
 ### S3
 
