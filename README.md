@@ -29,7 +29,10 @@ Once you have done that, you should be able to go to `yourapp.com/admin`.
 ### S3
 
 Just add your variables to the environment and you should be good, although I haven't tested it myself personally – let's hope for the best ;)
+> You must update your PRIVATE or PUBLIC filesystem environment variables depending on where you want to use your S3 system.
 
-## ONE CLICK INSTALL
+## ONE CLICK INSTALL*
 
 [![screenshot](https://railway.app/button.svg)](https://railway.app/template/WaxghR?referralCode=QkFCyI)
+
+* One click install only means you can get it up and running without configuration. You must configure the SMTP for it to work for your benefit.
